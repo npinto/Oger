@@ -1,0 +1,9 @@
+Dependencies:
+Python 2.4 or higher
+Numpy 1.1 or higher  
+Scipy 0.7 or higher
+MDP 3.0 or higher
+
+Run python setup.py install as superuser for a system-wide install.
+
+Please refer to http://organic.elis.ugent.be/oger for documentation.

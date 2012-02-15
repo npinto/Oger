@@ -1,0 +1,30 @@
+Metadata-Version: 1.0
+Name: Oger
+Version: 1.1.2
+Summary: Oger Toolbox
+Home-page: http://organic.elis.ugent.be
+Author: Philemon Brakel, Martin Fiers, Sander Dieleman, Fiontann O'Donnell, Benjamin Schrauwen and David Verstraeten
+Author-email: pbpop3@gmail.com, mfiers@intec.ugent.be, sander.dieleman@elis.ugent.be, fodonnel@elis.ugent.be, benjamin.schrauwen@elis.ugent.be, david.verstraeten@elis.ugent.be
+License: UNKNOWN
+Download-URL: http://organic.elis.ugent.be/oger
+Description: 
+        Oger is a Python toolbox for rapidly building, training and evaluating hierarchical learning architectures on large datasets. It builds functionality on top of the Modular toolkit for Data Processing (MDP). Oger builds functionality on top of MDP, such as:
+        - Cross-validation of datasets
+        - Grid-searching large parameter spaces
+        - Processing of temporal datasets
+        - Gradient-based training of deep learning architectures
+        - Interface to the Speech Processing, Recognition, and Automatic Annotation Kit (SPRAAK)
+        
+        In addition, several additional MDP nodes are provided by the Oger, such as a:
+        - Reservoir node
+        - Leaky reservoir node
+        - Ridge regression node
+        - Conditional Restricted Boltzmann Machine (CRBM) node
+        
+Platform: Any
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Scientific/Engineering :: Mathematics
